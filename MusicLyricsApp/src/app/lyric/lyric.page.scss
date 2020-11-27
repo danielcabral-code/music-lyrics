@@ -1,0 +1,38 @@
+.welcome-card img {
+    max-height: 35vh;
+    overflow: hidden;
+}
+
+.searchIcon {
+    padding-top: 20px;
+    font-size: 30px;
+}
+
+.cardColour {
+    background: white
+}
+
+ion-content {
+    --background: linear-gradient(white 1%, lightblue 100%);
+}
+
+.textColor {
+    color: rgb(97, 167, 190)
+}
+
+ion-title {
+    --color: #3880ff;
+}
+
+.lyricColor {
+    color: #193b75;
+}
+
+.favHeart {
+    color: #3880ff;
+    padding-right: 6px;
+}
+
+.closeToHeart {
+    margin-right: -7px;
+}
