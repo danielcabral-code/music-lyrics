@@ -1,1 +1,3 @@
-"# Music-Lyrics-App" 
+# Music-Lyrics-App
+
+Ionic App
