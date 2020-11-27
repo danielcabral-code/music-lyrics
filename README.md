@@ -1,4 +1,4 @@
-# Music-Lyrics-App
+# Music Lyrics App
 
 Music Lyrics App
 
