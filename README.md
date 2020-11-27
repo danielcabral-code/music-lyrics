@@ -1,3 +1,5 @@
 # Music-Lyrics-App
 
-Ionic App
+Music Lyrics App
+
+Ionic w/ Angular, Typescript
