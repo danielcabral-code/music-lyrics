@@ -2,4 +2,4 @@
 
 Music Lyrics App
 
-Ionic w/ Angular, Typescript
+Ionic w/ Angular; Typescript
