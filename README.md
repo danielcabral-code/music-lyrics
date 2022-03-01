@@ -1,3 +1,3 @@
-# music lyrics app
+# Music Lyrics App
 
-Music lyrics app w/ Ionic & Angular (Typescript).
+Music Lyrics App w/ Ionic & Angular (Typescript).
